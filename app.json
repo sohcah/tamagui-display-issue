@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "repro",
+    "slug": "repro",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "jsEngine": "hermes",
+    "plugins": [
+      "expo-dev-client",
+      "expo-splash-screen"
+    ]
+  }
+}
